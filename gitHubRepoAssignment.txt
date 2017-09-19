@@ -1,0 +1,23 @@
+www.github.com
+create repository
+
+cd Users
+cd Alisa Marie
+cd Desktop
+cd DojoAssignments
+cd WebFundamentals
+cd Git
+md GitHubRepoAssignment
+
+cd GitHubRepoAssignment
+git init
+
+copy NUL readme.md
+
+git status
+git add .
+git commmit -m "initial commit"
+
+git remote add origin https://github.com/vangali12/GitHubRepoAssignment.git
+git push -u origin master
+
